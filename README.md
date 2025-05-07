@@ -29,6 +29,8 @@ This repository contains documentation for the Alfred Agent Platform and its com
 - [Master Project Plan (v1.0)](/docs/development/AI%20Agent%20Platform%20v2%20-%20Master%20Project%20Plan.md)
 - [Master Project Plan (v1.1 - Latest)](/docs/development/AI%20Agent%20Platform%20v2%20-%20Master%20Project%20Plan%20v1.1.md)
 - [Technical Design Guide](/docs/development/AI%20Agent%20Platform%20v2–%20Technical%20Design%20Guide.md)
+- [CI/CD Pipeline](/docs/development/ci-cd-pipeline.md)
+- [Test Plan & Test Cases](/docs/development/test-plan.md)
 - [Agent Development](/docs/development/agent-development.md)
 
 ### Agent Orchestrator
@@ -66,6 +68,7 @@ A feature for YouTube content research:
 
 - [Deployment](/docs/operations/deployment.md)
 - [Security Plan](/docs/operations/security-plan.md)
+- [Maintenance Guide](/docs/operations/maintenance-guide.md)
 - [WSL Backups](/docs/operations/wsl-backups.md)
 - [Monitoring Dashboards](/docs/monitoring/dashboards.md)
 
@@ -78,9 +81,12 @@ The following documents serve as the single source of truth for understanding th
 3. **[System Design](/docs/architecture/system-design.md)** - High-level architecture overview
 4. **[API Documentation](/docs/api/api-documentation.md)** - Complete API specifications for platform integration
 5. **[A2A Protocol](/docs/api/a2a-protocol.md)** - Details of the Agent-to-Agent communication protocol
-6. **[Infrastructure Status](/docs/INFRASTRUCTURE_STATUS.md)** - Current state of infrastructure and services
-7. **[Security Plan](/docs/operations/security-plan.md)** - Security controls and practices
-8. **[Mission Control Implementation Plan](/docs/phase6-mission-control/implementation-plan.md)** - Plans for the central management UI
+6. **[CI/CD Pipeline](/docs/development/ci-cd-pipeline.md)** - Automated build, test, and deployment process
+7. **[Test Plan & Test Cases](/docs/development/test-plan.md)** - Testing strategy and specific test cases
+8. **[Infrastructure Status](/docs/INFRASTRUCTURE_STATUS.md)** - Current state of infrastructure and services
+9. **[Maintenance Guide](/docs/operations/maintenance-guide.md)** - Operations procedures, troubleshooting, and maintenance tasks
+10. **[Security Plan](/docs/operations/security-plan.md)** - Security controls and practices
+11. **[Mission Control Implementation Plan](/docs/phase6-mission-control/implementation-plan.md)** - Plans for the central management UI
 
 ## How to Use This Repository
 
