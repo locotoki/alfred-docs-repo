@@ -1,0 +1,26 @@
+# Instructions to push repository to GitHub
+
+1. Run these commands after creating your GitHub repository:
+
+```bash
+cd /home/locotoki/alfred-docs-repo
+git remote add origin https://github.com/YOUR_USERNAME/alfred-documentation.git
+git push -u origin main
+```
+
+2. Replace "YOUR_USERNAME" with your GitHub username
+3. If you've named your repository something other than "alfred-documentation", use that name instead
+
+4. If you're using SSH authentication instead of HTTPS, use:
+```bash
+git remote add origin git@github.com:YOUR_USERNAME/alfred-documentation.git
+git push -u origin main
+```
+
+5. After pushing, go to GitHub repository settings to enable GitHub Pages:
+   - Navigate to Settings > Pages
+   - Source: select "Deploy from a branch"
+   - Branch: select "main", folder: "/ (root)"
+   - Click Save
+
+Your documentation will be available at https://YOUR_USERNAME.github.io/alfred-documentation/
