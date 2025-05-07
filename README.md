@@ -2,6 +2,8 @@
 
 This repository contains documentation for the Alfred Agent Platform and its components.
 
+**[📑 View the Complete Documentation Overview](/docs/OVERVIEW.md)**
+
 ## Contents
 
 ### Platform Documentation
@@ -17,6 +19,7 @@ This repository contains documentation for the Alfred Agent Platform and its com
 
 - [System Design](/docs/architecture/system-design.md)
 - [Technical Architecture](/docs/architecture/technical-architecture.md)
+- [Re-architecture Plan](/docs/architecture/re-architecture-plan.md)
 - [A2A Protocol](/docs/api/a2a-protocol.md)
 
 ### API Documentation
@@ -50,6 +53,11 @@ A feature for YouTube content research:
 - [UI Lanes](/docs/agent-orchestrator/niche_Idea_generator/ui-lanes.md)
 - [Taxonomy Rules](/docs/agent-orchestrator/niche_Idea_generator/taxonomy-rules.md)
 - [Wizard Specs](/docs/agent-orchestrator/niche_Idea_generator/wizard-specs.md)
+
+### Agent Core
+
+- [Integration Plan](/docs/agent-core/integration-plan.md)
+- [LangChain vs Vertex AI Tradeoffs](/docs/agent-core/langchain-vs-vertex-ai.md)
 
 ### Agents
 
@@ -87,6 +95,9 @@ The following documents serve as the single source of truth for understanding th
 9. **[Maintenance Guide](/docs/operations/maintenance-guide.md)** - Operations procedures, troubleshooting, and maintenance tasks
 10. **[Security Plan](/docs/operations/security-plan.md)** - Security controls and practices
 11. **[Mission Control Implementation Plan](/docs/phase6-mission-control/implementation-plan.md)** - Plans for the central management UI
+12. **[Re-architecture Plan](/docs/architecture/re-architecture-plan.md)** - Plan for updating the platform architecture using Supabase and Pub/Sub
+13. **[Agent Core Integration Plan](/docs/agent-core/integration-plan.md)** - Plan for integrating LangChain, LangGraph, and LangSmith 
+14. **[LangChain vs Vertex AI Tradeoffs](/docs/agent-core/langchain-vs-vertex-ai.md)** - Comparison of LangChain and Vertex AI Agent Builder
 
 ## How to Use This Repository
 
