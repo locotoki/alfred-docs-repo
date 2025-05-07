@@ -20,7 +20,8 @@ This repository contains documentation for the Alfred Agent Platform and its com
 
 ### Development
 
-- [Master Project Plan](/docs/development/AI%20Agent%20Platform%20v2%20-%20Master%20Project%20Plan.md)
+- [Master Project Plan (v1.0)](/docs/development/AI%20Agent%20Platform%20v2%20-%20Master%20Project%20Plan.md)
+- [Master Project Plan (v1.1 - Latest)](/docs/development/AI%20Agent%20Platform%20v2%20-%20Master%20Project%20Plan%20v1.1.md)
 - [Technical Design Guide](/docs/development/AI%20Agent%20Platform%20v2–%20Technical%20Design%20Guide.md)
 - [Agent Development](/docs/development/agent-development.md)
 
@@ -60,6 +61,16 @@ A feature for YouTube content research:
 - [Deployment](/docs/operations/deployment.md)
 - [WSL Backups](/docs/operations/wsl-backups.md)
 - [Monitoring Dashboards](/docs/monitoring/dashboards.md)
+
+## Key Documentation
+
+The following documents serve as the single source of truth for understanding the Alfred Agent Platform:
+
+1. **[Master Project Plan (Latest)](/docs/development/AI%20Agent%20Platform%20v2%20-%20Master%20Project%20Plan%20v1.1.md)** - Comprehensive project roadmap with completed phases, current work, and upcoming tasks
+2. **[System Design](/docs/architecture/system-design.md)** - High-level architecture overview
+3. **[A2A Protocol](/docs/api/a2a-protocol.md)** - Details of the Agent-to-Agent communication protocol
+4. **[Infrastructure Status](/docs/INFRASTRUCTURE_STATUS.md)** - Current state of infrastructure and services
+5. **[Mission Control Implementation Plan](/docs/phase6-mission-control/implementation-plan.md)** - Plans for the central management UI
 
 ## How to Use This Repository
 
