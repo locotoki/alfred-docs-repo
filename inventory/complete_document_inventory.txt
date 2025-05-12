@@ -1,0 +1,323 @@
+/docs/IMPLEMENTATION_STATUS.md 2025-05-06 10:12:06.332115470 +0100
+/docs/monitoring/dashboards.md 2025-05-05 22:13:42.059827578 +0100
+/docs/atlas/operations.md 2025-05-11 01:33:55.552670138 +0100
+/docs/atlas/architecture.md 2025-05-11 01:41:51.840013066 +0100
+/docs/atlas/roadmap.md 2025-05-11 07:35:04.428876275 +0100
+/docs/atlas/api.md 2025-05-11 01:33:40.512909926 +0100
+/docs/atlas/usage-guide.md 2025-05-11 01:42:24.609729423 +0100
+/docs/atlas/USAGE_GUIDE.md 2025-05-11 07:56:49.759620613 +0100
+/docs/atlas/README.md 2025-05-12 08:39:43.722781121 +0100
+/docs/tools/outputs/phase2-social-intelligence-report.md 2025-05-10 19:14:05.575823100 +0100
+/docs/tools/outputs/migration_dashboard_updated_6.md 2025-05-12 09:12:34.115025476 +0100
+/docs/tools/outputs/migration_overview.md 2025-05-10 15:06:58.430592825 +0100
+/docs/tools/outputs/migration-report-deployment-guide.md 2025-05-10 21:06:06.584941759 +0100
+/docs/tools/outputs/phase2-progress-updated-3.md 2025-05-12 09:13:04.274587111 +0100
+/docs/tools/outputs/phase2-niche-scout-workflow-report.md 2025-05-10 20:48:26.229806452 +0100
+/docs/tools/outputs/migration_tracking_updated_2.md 2025-05-10 20:19:35.621255627 +0100
+/docs/tools/outputs/migration_dashboard_updated_3.md 2025-05-10 20:43:20.645428160 +0100
+/docs/tools/outputs/validation_report.md 2025-05-10 15:03:41.950119244 +0100
+/docs/tools/outputs/phase2-system-architecture-report.md 2025-05-10 19:04:48.214628866 +0100
+/docs/tools/outputs/phase2-progress-updated-4.md 2025-05-12 09:35:39.783913957 +0100
+/docs/tools/outputs/phase3-readiness-checklist.md 2025-05-10 20:09:04.657068593 +0100
+/docs/tools/outputs/phase2-agent-core-report.md 2025-05-10 19:09:37.219283973 +0100
+/docs/tools/outputs/migration_tracking_updated_7.md 2025-05-12 09:12:08.664920700 +0100
+/docs/tools/outputs/migration_tracking_updated_8.md 2025-05-12 09:34:39.622618643 +0100
+/docs/tools/outputs/migration_tracking_updated_4.md 2025-05-10 20:42:51.675025055 +0100
+/docs/tools/outputs/phase2-progress-updated-2.md 2025-05-10 21:08:20.684876305 +0100
+/docs/tools/outputs/migration_dashboard_updated_5.md 2025-05-10 21:07:49.603994421 +0100
+/docs/tools/outputs/migration_summary.md 2025-05-10 15:07:27.821045177 +0100
+/docs/tools/outputs/phase2-agent-implementation-guide-report.md 2025-05-10 20:18:27.210759481 +0100
+/docs/tools/outputs/migration_tracking_updated_5.md 2025-05-10 20:52:33.623582877 +0100
+/docs/tools/outputs/phase2-batch1-plan.md 2025-05-10 18:48:53.485265396 +0100
+/docs/tools/outputs/reports/examples_metadata_update.md 2025-05-10 15:27:51.521036147 +0100
+/docs/tools/outputs/reports/templates_metadata_update.md 2025-05-10 15:26:56.870441214 +0100
+/docs/tools/outputs/migration_dashboard_updated_7.md 2025-05-12 09:35:05.702970468 +0100
+/docs/tools/outputs/migration_tracking_updated_6.md 2025-05-10 21:07:20.294102439 +0100
+/docs/tools/outputs/migration_tracking.md 2025-05-10 19:13:25.703748625 +0100
+/docs/tools/outputs/phase2-execution-guide.md 2025-05-10 18:49:33.655367891 +0100
+/docs/tools/outputs/phase2-progress.md 2025-05-10 19:04:22.734159091 +0100
+/docs/tools/outputs/migration_tracking_updated.md 2025-05-10 20:08:06.064951004 +0100
+/docs/tools/outputs/phase2-financial-tax-agent-report.md 2025-05-10 20:29:10.790627445 +0100
+/docs/tools/outputs/phase2-completion-report.md 2025-05-10 20:08:35.625612177 +0100
+/docs/tools/outputs/phase2-progress-updated.md 2025-05-10 20:53:25.183894614 +0100
+/docs/tools/outputs/migration_dashboard_updated.md 2025-05-10 20:20:03.301760178 +0100
+/docs/tools/outputs/migration_dashboard.md 2025-05-10 20:11:31.840016316 +0100
+/docs/tools/outputs/phase2-document-report.md 2025-05-10 18:58:50.717522160 +0100
+/docs/tools/outputs/phase2-legal-compliance-agent-report.md 2025-05-10 20:41:40.375075936 +0100
+/docs/tools/outputs/migration_tracking_updated_3.md 2025-05-10 20:30:19.290552977 +0100
+/docs/tools/outputs/migration-report-seed-to-blueprint.md 2025-05-10 20:51:20.822242622 +0100
+/docs/tools/outputs/migration_dashboard_updated_4.md 2025-05-10 20:53:00.594194119 +0100
+/docs/tools/outputs/phase2-infrastructure-report.md 2025-05-10 20:07:01.793290733 +0100
+/docs/tools/outputs/phase1-completion/phase1-completion-report.md 2025-05-10 15:28:39.121976404 +0100
+/docs/tools/outputs/phase1-completion/phase2-readiness-checklist.md 2025-05-10 15:28:59.301730320 +0100
+/docs/tools/outputs/migration_dashboard_updated_2.md 2025-05-10 20:30:46.621920369 +0100
+/docs/LLM_INTEGRATION_ASSESSMENT.md 2025-05-11 19:19:55.090841936 +0100
+/docs/AGENT_DEPLOYMENT_GUIDE.md 2025-05-11 07:38:18.190370616 +0100
+/docs/architecture/system-design.md 2025-05-04 00:15:19.471288200 +0100
+/docs/architecture/agent-core.md 2025-05-10 19:08:30.058064346 +0100
+/docs/architecture/orchestration-architecture.md 2025-05-12 10:21:17.847984007 +0100
+/docs/architecture/system-architecture.md 2025-05-10 19:03:49.013254825 +0100
+/docs/PHASE2_COST.md 2025-05-09 10:09:23.330739840 +0100
+/docs/SHARED_LIBRARIES.md 2025-05-06 13:45:30.433447200 +0100
+/docs/UI_INTEGRATION_DESIGN.md 2025-05-11 19:24:58.606456139 +0100
+/docs/PHASE2_VISION.md 2025-05-12 08:39:43.722781121 +0100
+/docs/governance/standards/validation-report.md 2025-05-12 10:17:43.354274975 +0100
+/docs/governance/standards/documentation-standards.md 2025-05-10 11:54:23.008852256 +0100
+/docs/governance/processes/documentation-cicd-integration.md 2025-05-10 15:17:42.810603868 +0100
+/docs/governance/processes/document-consolidation-guide.md 2025-05-10 15:16:20.418987387 +0100
+/docs/governance/processes/documentation-migration-tutorial.md 2025-05-12 10:17:43.304273328 +0100
+/docs/governance/processes/documentation-process.md 2025-05-10 15:18:02.860582405 +0100
+/docs/governance/ai-tools/ai-integration-guidelines.md 2025-05-10 12:06:57.458869928 +0100
+/docs/governance/ai-tools/prompts/doc-creation-prompt.md 2025-05-10 11:53:52.077996472 +0100
+/docs/governance/ai-tools/README.md 2025-05-10 11:53:19.577403004 +0100
+/docs/operations/wsl-backups.md 2025-05-07 09:58:01.687137653 +0100
+/docs/operations/deployment.md 2025-05-04 00:17:32.127749100 +0100
+/docs/operations/deployment-guide.md 2025-05-10 21:05:35.304499389 +0100
+/docs/PHASE2_TIMELINE.md 2025-05-09 10:13:30.076700234 +0100
+/docs/SERVICE_CONTAINERIZATION.md 2025-05-06 13:44:59.873647097 +0100
+/docs/development/ai-agent-platform-v2--technical-design-guide.md 2025-05-07 09:48:44.093321707 +0100
+/docs/development/ai-agent-platform-v2--master-project-plan.md 2025-05-07 09:48:44.073320844 +0100
+/docs/development/agent-development.md 2025-05-04 00:17:02.360906000 +0100
+/docs/agents/financial-tax-agent-migrated.md 2025-05-10 20:28:35.350068818 +0100
+/docs/agents/legal-compliance-agent-migrated.md 2025-05-10 20:40:55.743563150 +0100
+/docs/agents/guides/agent-implementation-guide.md 2025-05-10 12:12:58.635018949 +0100
+/docs/agents/guides/agent-implementation-guide-migrated.md 2025-05-10 20:17:54.990479820 +0100
+/docs/agents/social-intelligence-agent.md 2025-05-10 19:12:59.463605946 +0100
+/docs/agents/interfaces/alfred-slack-bot.md 2025-05-12 10:17:43.284272670 +0100
+/docs/agents/financial-tax-agent.md 2025-05-04 15:03:22.532305189 +0100
+/docs/agents/catalog/agent-catalog.md 2025-05-11 08:30:42.216879329 +0100
+/docs/agents/financial-tax-deployment-checklist.md 2025-05-04 15:04:04.253194158 +0100
+/docs/agents/financial_tax/financial-tax-agent-architecture.md 2025-05-12 08:40:33.313767218 +0100
+/docs/agents/financial_tax/financial-tax-api.md 2025-05-12 08:48:49.010984913 +0100
+/docs/agents/financial_tax/tax-compliance-verification.md 2025-05-12 08:49:52.112494232 +0100
+/docs/agents/financial_tax/financial-analysis-implementation.md 2025-05-12 08:53:34.965487280 +0100
+/docs/agents/README.md 2025-05-12 08:39:43.732781561 +0100
+/docs/alfred_assistant_implementation/executable-project-plan.md 2025-05-04 23:52:58.036690562 +0100
+/docs/alfred_assistant_implementation/technical-architecture.md 2025-05-04 23:50:31.645431831 +0100
+/docs/alfred_assistant_implementation/implementation-plan.md 2025-05-04 23:48:00.463080971 +0100
+/docs/alfred_assistant_implementation/week1-immediate-actions.md 2025-05-04 23:54:13.506903087 +0100
+/docs/INFRASTRUCTURE_STATUS_UPDATED.md 2025-05-06 13:44:29.862908949 +0100
+/docs/migration-tracking.md 2025-05-10 19:14:11.716077261 +0100
+/docs/POST_ROLLOUT_ACTIONS.md 2025-05-09 10:12:51.816231074 +0100
+/docs/phase6-mission-control/requirements.md 2025-05-05 22:14:02.780672082 +0100
+/docs/phase6-mission-control/implementation-plan.md 2025-05-05 22:14:30.541377171 +0100
+/docs/phase6-mission-control/youtube-workflows/claude-session-template.md 2025-05-06 10:38:15.312861323 +0100
+/docs/phase6-mission-control/youtube-workflows/troubleshooting-guide.md 2025-05-06 11:05:22.715460666 +0100
+/docs/phase6-mission-control/youtube-workflows/implementation_status_final.md 2025-05-07 16:58:32.864474698 +0100
+/docs/phase6-mission-control/youtube-workflows/implementation-plan.md 2025-05-07 16:58:14.023654828 +0100
+/docs/phase6-mission-control/youtube-workflows/quick-start-guide.md 2025-05-07 16:57:44.004053221 +0100
+/docs/phase6-mission-control/youtube-workflows/README.md 2025-05-07 16:58:59.664504802 +0100
+/docs/interfaces/chat-ui-implementation.md 2025-05-11 08:28:31.864323738 +0100
+/docs/services/crewai-service.md 2025-05-11 17:32:47.289421096 +0100
+/docs/services/crewai-n8n-integration-status.md 2025-05-11 17:36:34.592520871 +0100
+/docs/services/service-catalog.md 2025-05-11 17:36:04.082413036 +0100
+/docs/services/n8n-service.md 2025-05-11 17:33:19.718571256 +0100
+/docs/infrastructure-crew/roles/infrastructure-architect.md 2025-05-09 16:17:54.016597401 +0100
+/docs/infrastructure-crew/roles/infrastructure-architect-agent.md 2025-05-09 16:17:54.016597401 +0100
+/docs/infrastructure-crew/roles/implementation-specialist.md 2025-05-09 16:17:54.016597401 +0100
+/docs/infrastructure-crew/architecture/infrastructure-crew-high-level-design.md 2025-05-09 16:17:54.016597401 +0100
+/docs/infrastructure-crew/architecture/lean-crew-mvp.md 2025-05-09 16:17:54.016597401 +0100
+/docs/infrastructure-crew/architecture/infrastructure-crew-artifact-flow.md 2025-05-09 16:17:54.016597401 +0100
+/docs/infrastructure-crew/implementation/ai-agent-framework-guide.md 2025-05-09 16:17:54.016597401 +0100
+/docs/infrastructure-crew/implementation/supabase-rls-qdrant-tenancy.md 2025-05-09 16:50:26.081787444 +0100
+/docs/infrastructure-crew/implementation/team-crew-setup.md 2025-05-09 16:17:54.016597401 +0100
+/docs/infrastructure-crew/overview.md 2025-05-12 08:39:43.732781561 +0100
+/docs/infrastructure-crew/README.md 2025-05-09 16:17:54.026597830 +0100
+/docs/system-diagram.md 2025-05-10 14:56:29.862343725 +0100
+/docs/documentation-system-summary.md 2025-05-11 17:55:33.638147386 +0100
+/docs/ARCHITECTURE_DIAGRAM.md 2025-05-11 19:25:58.547360579 +0100
+/docs/taxonomy-integration.md 2025-05-07 17:53:51.725189189 +0100
+/docs/PHASE2_HLD.md 2025-05-09 10:07:32.499048284 +0100
+/docs/github-reference-guide.md 2025-05-10 14:29:10.317610199 +0100
+/docs/RAG_GATEWAY.md 2025-05-11 08:16:20.744072647 +0100
+/docs/TAXONOMY-INTEGRATION.md 2025-05-07 17:56:36.519219860 +0100
+/docs/workflows/niche-scout-implementation-guide.md 2025-05-07 13:35:42.684517046 +0100
+/docs/workflows/content-explorer-workflow.md 2025-05-12 09:08:11.300428651 +0100
+/docs/workflows/niche-scout-workflow-migrated.md 2025-05-10 20:47:55.359267372 +0100
+/docs/workflows/IMPLEMENTATION_SUMMARY.md 2025-05-07 17:10:01.451814743 +0100
+/docs/workflows/youtube-api-configuration.md 2025-05-07 14:49:58.979565392 +0100
+/docs/workflows/interfaces/slack-conversation-workflow.md 2025-05-12 10:17:43.344274644 +0100
+/docs/workflows/crewai-workflows.md 2025-05-11 17:33:55.639320389 +0100
+/docs/workflows/n8n-workflows.md 2025-05-11 17:34:35.910353341 +0100
+/docs/workflows/topic-research-workflow.md 2025-05-12 09:10:59.093024585 +0100
+/docs/workflows/seed-to-blueprint-workflow-migrated.md 2025-05-10 20:50:53.801979429 +0100
+/docs/workflows/catalog/workflow-catalog.md 2025-05-12 08:39:43.742781998 +0100
+/docs/workflows/README.md 2025-05-12 08:39:43.732781561 +0100
+/docs/PHASE2_THREAT_MODEL.md 2025-05-09 10:10:03.412240017 +0100
+/docs/staging-area/RAG_service/rag-service.md 2025-05-10 10:26:16.000000000 +0100
+/docs/staging-area/RAG_service/solo-biz-internal-rag-playbook.md 2025-05-10 11:28:42.189972557 +0100
+/docs/staging-area/RAG_service/rag-service---add-on-artifacts.md 2025-05-10 10:26:16.000000000 +0100
+/docs/staging-area/RAG_service/rag-service---data_flow_diagram.md 2025-05-10 11:28:41.709952157 +0100
+/docs/staging-area/RAG_service/rag-servcie--rag-client-retriever.md 2025-05-10 11:28:41.489942808 +0100
+/docs/staging-area/RAG_service/rag-service---implementation-plan-and-test-instructi.md 2025-05-10 11:28:41.879959383 +0100
+/docs/staging-area/RAG_service/external-facing-saas-rag-playbook.md 2025-05-10 10:26:16.000000000 +0100
+/docs/staging-area/RAG_service/rag-service--client-packaging-and-codegen-guide.md 2025-05-10 11:28:41.669950457 +0100
+/docs/staging-area/RAG_service/rag-service---security_compliance_whitepaper.md 2025-05-10 10:26:16.000000000 +0100
+/docs/staging-area/RAG_service/rag-service--open-api-3.md 2025-05-10 11:28:41.969963206 +0100
+/docs/staging-area/RAG_service/rag-service---executive_one_pager.md 2025-05-10 10:26:16.000000000 +0100
+/docs/staging-area/RAG_service/RAG Service – Architectural RFC 1eeb4fd21ff080b6a44ced387219a795.md 
+/docs/staging-area/RAG_service/rag-service--bootstrap-and-re-ranker.md 2025-05-10 10:26:16.000000000 +0100
+/docs/staging-area/RAG_service/rag-and-ai-agent-solopreneur-playbook---structured-s.md 2025-05-10 11:28:41.399938982 +0100
+/docs/staging-area/RAG_service/rag-service---day-two-operations-guide.md 2025-05-10 10:26:16.000000000 +0100
+/docs/staging-area/RAG_service/rag-service---architectural-rfc.md 2025-05-10 11:28:41.579946631 +0100
+/docs/staging-area/RAG_service/RAG Servcie - Rag Client Retriever 1eeb4fd21ff08061ad73fcb3612601b9.md 2025-05-07 20:56:19.050000000 +0100
+/docs/staging-area/RAG_service/rag-service---supplementary-toolkit.md 2025-05-10 10:26:16.000000000 +0100
+/docs/staging-area/RAG_service/rag--tenant-models.md 2025-05-10 11:28:41.349936856 +0100
+/docs/staging-area/RAG_service/RAG & AI‑Agent Solopreneur Playbook – Structured S 1eeb4fd21ff0800cb60efaafaf45d8c0.md 
+/docs/staging-area/RAG_service/RAG - Tenant Models 1eeb4fd21ff0809f931dd9646b22f057.md 2025-05-07 20:56:19.050000000 +0100
+/docs/staging-area/RAG_service/RAG Service – data_flow_diagram 1eeb4fd21ff08191a27ff8e7904ba16a.md 
+/docs/staging-area/RAG_service/Solo‑Biz Internal RAG Playbook 1eeb4fd21ff0806087dffe0b3e783696.md 
+/docs/staging-area/RAG_service/rag-service---system_context_diagram.md 2025-05-10 11:28:42.099968731 +0100
+/docs/staging-area/RAG_service/rag-service---future-roadmap.md 2025-05-10 11:28:41.839957683 +0100
+/docs/staging-area/RAG_service/RAG Service – system_context_diagram 1eeb4fd21ff081c5ae24f88de69c3e27.md 
+/docs/staging-area/RAG_service/RAG Service – Implementation Plan & Test Instructi 1eeb4fd21ff0801a8d4cc1ee4276457a.md 
+/docs/staging-area/RAG_service/personal-family-rag-playbook.md 2025-05-10 10:26:16.000000000 +0100
+/docs/staging-area/RAG_service/RAG Service – Future Roadmap 1eeb4fd21ff08058a6d1f340150dcaa6.md 
+/docs/staging-area/RAG_service/rag-project---supplementary-design-docs.md 2025-05-10 10:26:16.000000000 +0100
+/docs/staging-area/RAG_service/RAG Service - Client Packaging & Codegen Guide 1eeb4fd21ff080f6a56dd9de06cdf097.md 2025-05-07 20:56:19.050000000 +0100
+/docs/staging-area/RAG_service/RAG Service - Open Api 3 1eeb4fd21ff0806fa4cae2b7302caca6.md 2025-05-07 20:56:19.050000000 +0100
+/docs/staging-area/Infra_Crew/ai-agent-crew-for-scalable,-fully-automated-infras.md 2025-05-10 11:25:42.458604107 +0100
+/docs/staging-area/Infra_Crew/Atlas_Deployment_Manual_v0.1.md 2025-05-11 00:50:38.166133454 +0100
+/docs/staging-area/Infra_Crew/infra_architect_lean_crew_mvp.md 2025-05-10 10:22:02.000000000 +0100
+/docs/staging-area/Infra_Crew/ai_agent_framework_guide_05072025.md 2025-05-10 10:22:04.000000000 +0100
+/docs/staging-area/Infra_Crew/infrastructure-architect-agent.md 2025-05-10 10:22:02.000000000 +0100
+/docs/staging-area/Infra_Crew/infrastructure-crew.md 2025-05-10 11:25:42.688613696 +0100
+/docs/staging-area/Infra_Crew/infra-architect-role-and-definition.md 2025-05-10 11:25:42.548607856 +0100
+/docs/staging-area/Infra_Crew/ai-aent-team-crew--autonomous-infrastructure.md 2025-05-10 10:22:02.000000000 +0100
+/docs/staging-area/Infra_Crew/Infra Architect Role & Definition 1edb4fd21ff080ceb2e7cbbbe0ff762a.md 
+/docs/staging-area/Infra_Crew/implementation-specialist-role-definition.md 2025-05-10 10:22:02.000000000 +0100
+/docs/staging-area/Infra_Crew/AI-Agent Crew for Scalable, Fully-Automated Infras 1edb4fd21ff080459f6acf429f3299fe.md 
+/docs/staging-area/Infra_Crew/Infrastructure Crew 1eeb4fd21ff0806e920ad56352bd8f69.md 
+/docs/staging-area/Infra_Crew/Atlas_Deployment_Manual_v0.2.md 2025-05-11 01:02:31.786621224 +0100
+/docs/staging-area/Infra_Crew/atlas_mvp_scaffold_patch-set_001.md 2025-05-11 01:25:19.482923021 +0100
+/docs/staging-area/alfred__AI_Assistant/assistant-ai-agent-alfred.md 2025-05-07 10:54:28.371349100 +0100
+/docs/staging-area/alfred__AI_Assistant/Alfred-Home Comprehensive Deployment Guide for Loc 1eab4fd21ff0805abad4e927cc3b384e.md 
+/docs/staging-area/alfred__AI_Assistant/alfred-whatsapp-family-mvp---detailed-design-and-imp.md 2025-05-07 10:54:28.468014600 +0100
+/docs/staging-area/alfred__AI_Assistant/Alfred WhatsApp Family MVP 1eab4fd21ff080c59493fe1cde490f5b.md 
+/docs/staging-area/alfred__AI_Assistant/Alfred‑Home Single Source of Truth – Implementatio 1eab4fd21ff080d48cf5f2cfcb1170de.md 
+/docs/staging-area/alfred__AI_Assistant/alfred-home-architectural-synthesis.md 2025-05-07 10:54:28.559441500 +0100
+/docs/staging-area/alfred__AI_Assistant/alfred-whatsapp-family-mvp.md 2025-05-07 10:54:28.421688100 +0100
+/docs/staging-area/alfred__AI_Assistant/path-from-alfred-home-to-adding-alfred-biz.md 2025-05-07 10:54:28.735823400 +0100
+/docs/staging-area/alfred__AI_Assistant/alfred-home-and-alfred-biz---comprehensive-guide.md 2025-05-07 10:54:28.489024700 +0100
+/docs/staging-area/alfred__AI_Assistant/interfaces-initial-infra-assessment.md 2025-05-07 10:54:28.780375600 +0100
+/docs/staging-area/alfred__AI_Assistant/alfred-home-whatsapp-mvp---detailed-design-and-imple.md 2025-05-07 10:54:28.511026400 +0100
+/docs/staging-area/alfred__AI_Assistant/rethinking-alfred-for-a-solopreneur.md 2025-05-07 10:54:28.590027400 +0100
+/docs/staging-area/alfred__AI_Assistant/ai-agent-platform-v2-·-alfred-×-whatsapp-cloud-api.md 2025-05-07 10:54:28.689234400 +0100
+/docs/staging-area/alfred__AI_Assistant/alfred-home-biz-planning-and-design.md 2025-05-07 10:54:28.397343700 +0100
+/docs/staging-area/alfred__AI_Assistant/alfred-biz-slack-mvp.md 2025-05-07 10:54:28.442939100 +0100
+/docs/staging-area/alfred__AI_Assistant/Interfaces initial infra assessment 1e9b4fd21ff08080a6ebccdf693562f3.md 
+/docs/staging-area/alfred__AI_Assistant/alfred-home-single-source-of-truth---implementatio.md 2025-05-07 10:54:28.616031100 +0100
+/docs/staging-area/alfred__AI_Assistant/alfred-home---implementation-specification.md 2025-05-07 10:54:28.641145800 +0100
+/docs/staging-area/alfred__AI_Assistant/alfred-home-comprehensive-deployment-guide-for-loc.md 2025-05-07 10:54:28.713241300 +0100
+/docs/staging-area/alfred__AI_Assistant/Alfred‑Home WhatsApp MVP – Detailed Design & Imple 1e9b4fd21ff080a188b9e2d0f4b47b67.md 
+/docs/staging-area/alfred__AI_Assistant/alfred-biz-slack-mvp---detailed-design-and-implement.md 2025-05-07 10:54:28.757868700 +0100
+/docs/staging-area/alfred__AI_Assistant/Alfred-Biz Slack MVP 1eab4fd21ff080609921f364d96570fa.md 
+/docs/staging-area/alfred__AI_Assistant/Alfred‑home biz Planning & Design 1eab4fd21ff08074a707f54ac5c0363c.md 
+/docs/staging-area/alfred__AI_Assistant/Assistant AI Agent Alfred 1eab4fd21ff0803eb7d4dcea596822c7.md 
+/docs/staging-area/CrewAI_N8N.md 2025-05-11 17:11:47.448792594 +0100
+/docs/staging-area/agents/agent-template.md 2025-05-10 11:19:50.612479205 +0100
+/docs/staging-area/agents/core/conductor.md 2025-05-10 11:20:38.043390590 +0100
+/docs/staging-area/agents/domain/niche-scout.md 2025-05-10 11:20:14.463514449 +0100
+/docs/staging-area/agents/README.md 2025-05-10 11:19:38.412291943 +0100
+/docs/staging-area/Social_Intel/Social Intel Agent 1eab4fd21ff0802f84b5eeace69c091e.md 
+/docs/staging-area/Social_Intel/social-intel-agent-research‐and-insight-workflows.md 2025-05-07 10:52:26.174929600 +0100
+/docs/staging-area/Social_Intel/social-intel-agent-manual-pilot-playbook---phase-1.md 2025-05-07 10:52:26.311487900 +0100
+/docs/staging-area/Social_Intel/youtube-workflow-1-integration--technical-specif.md 2025-05-07 10:52:26.450259800 +0100
+/docs/staging-area/Social_Intel/Untitled 1eab4fd21ff080db8facf25931bd652e.md 
+/docs/staging-area/Social_Intel/social-intel-agent.md 2025-05-07 10:52:26.147378300 +0100
+/docs/staging-area/Social_Intel/social-intel-agent-“try-it-tomorrow”-exercises.md 2025-05-07 10:52:26.264277200 +0100
+/docs/staging-area/Social_Intel/social-intel-agent-agent-automation-playbook.md 2025-05-07 10:52:26.289316400 +0100
+/docs/staging-area/Social_Intel/untitled.md 2025-05-07 10:52:26.403810900 +0100
+/docs/staging-area/Social_Intel/Social Intel Agent “try-it-tomorrow” exercises 1eab4fd21ff08038870bd16b390da7d6.md 
+/docs/staging-area/Social_Intel/youtube-workflow-1-research-scenario-samples.md 2025-05-07 10:52:26.426251900 +0100
+/docs/staging-area/Social_Intel/social-intel-agent-role-for-youtube-content-creati.md 2025-05-07 10:52:26.197079000 +0100
+/docs/staging-area/Social_Intel/Youtube_API_Key.md 2025-05-07 10:58:40.178611873 +0100
+/docs/staging-area/Social_Intel/Social Intel Agent Role for YouTube Content Creati 1eab4fd21ff0806887a6e5319ba6660d.md 
+/docs/staging-area/Social_Intel/social-intel-agent-for-youtube-content-creation--.md 2025-05-07 10:52:26.242686800 +0100
+/docs/staging-area/Social_Intel/social-intel-agent-youtube-research-workflows-thro.md 2025-05-07 10:52:26.335700000 +0100
+/docs/staging-area/Social_Intel/Possible research sources & methods 1ebb4fd21ff08095b585e8ffd3821158.md 
+/docs/staging-area/Social_Intel/social-intel-agent-youtube-content-creation-shippi.md 2025-05-07 10:52:26.219645600 +0100
+/docs/staging-area/Social_Intel/Social Intel Agent YouTube research workflows thro 1eab4fd21ff0802b806cfbab033a42da.md 
+/docs/staging-area/Social_Intel/Social Intel Agent YouTube Content Creation Shippi 1eab4fd21ff0800aaadcc22e6500d7e3.md 
+/docs/staging-area/Social_Intel/manual-pilot-playbook-pilot-1.md 2025-05-07 10:52:26.382914200 +0100
+/docs/staging-area/Social_Intel/possible-research-sources-and-methods.md 2025-05-07 10:52:26.472263300 +0100
+/docs/staging-area/Social_Intel/Social Intel Agent Manual-Pilot Playbook – Phase 1 1eab4fd21ff080348ea9e45825cc4f54.md 
+/docs/staging-area/Social_Intel/youtube-workflow-1-niche-scout.md 2025-05-07 10:52:26.359833000 +0100
+/docs/staging-area/CrewAI_N8N_Integration_Plan.md 2025-05-11 17:15:23.882753942 +0100
+/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-technical-architecture-docum.md 2025-05-07 10:48:19.537488500 +0100
+/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-api-documentation.md 2025-05-07 10:48:19.582012400 +0100
+/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-operations-and-maintenance-gui.md 2025-05-07 10:48:19.671671500 +0100
+/docs/staging-area/AI_Agent_Platform_v2/ai_agent_platform-v2.md 2025-05-07 10:48:19.460987200 +0100
+/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-ci-cd-pipeline-documentation.md 2025-05-07 10:48:19.605126600 +0100
+/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-complete-implementation-guide.md 2025-05-07 10:48:19.762403700 +0100
+/docs/staging-area/AI_Agent_Platform_v2/agent-core-langchain_vs_vertex_ai_agenttradeoffs.md 2025-05-07 10:48:19.739841000 +0100
+/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-security-plan.md 2025-05-07 10:48:19.649133300 +0100
+/docs/staging-area/AI_Agent_Platform_v2/AI Agent Platform v2 AI Agent Core Integration Pla 1e8b4fd21ff0806c9a6fca150e8259b3.md 
+/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-ai-agent-core-integration-pla.md 2025-05-07 10:48:19.560501200 +0100
+/docs/staging-area/AI_Agent_Platform_v2/AI Agent Platform v2 Complete Implementation Guide 1e8b4fd21ff080c1b742d3a910855ef1.md 
+/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-test-plan-and-test-cases.md 2025-05-07 10:48:19.627126500 +0100
+/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2--technical-design-guide.md 2025-05-07 10:48:19.513234800 +0100
+/docs/staging-area/AI_Agent_Platform_v2/AI Agent Platform v2- CI CD Pipeline Documentation 1e7b4fd21ff080ac82acd0ccd1ff72b6.md 
+/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2--master-project-plan-v1-1-05.md 2025-05-07 10:48:19.488415800 +0100
+/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2--master-project-plan.md 2025-05-07 10:48:19.716321000 +0100
+/docs/staging-area/AI_Agent_Platform_v2/AI Agent Platform v2- Test Plan & Test Cases 1e7b4fd21ff080aaacc4f2ceaa200e67.md 
+/docs/staging-area/Content_Factory/youtube-content-factory-2025-2027-grok3-research-0.md 2025-05-07 10:55:13.985673300 +0100
+/docs/staging-area/Content_Factory/content-factory-core-agent-team-structure.md 2025-05-07 10:55:14.031191200 +0100
+/docs/staging-area/Content_Factory/agent-team-structure-for-youtube-content-creation.md 2025-05-07 10:55:14.097210300 +0100
+/docs/staging-area/Content_Factory/content-factory-org-chart.md 2025-05-07 10:55:14.053696600 +0100
+/docs/staging-area/Content_Factory/youtube-content-factory-ai-agent-framework-for-aut.md 2025-05-07 10:55:14.009673200 +0100
+/docs/staging-area/Content_Factory/Automation & UI Framework Expansion 1eab4fd21ff0801898a2d5b4270b513e.md 
+/docs/staging-area/Content_Factory/Content Factory Core Agent Team Structure 1eab4fd21ff080f4aa42c45b0efabbd8.md 
+/docs/staging-area/Content_Factory/content-factory.md 2025-05-07 10:55:13.958675400 +0100
+/docs/staging-area/Content_Factory/end-to-end-youtube-channel-operation-workflow-phas.md 2025-05-07 10:55:14.074698500 +0100
+/docs/staging-area/Content_Factory/End-to-End YouTube Channel Operation Workflow Phas 1eab4fd21ff08055a1eaf051bc511af6.md 
+/docs/staging-area/Content_Factory/automation-and-ui-framework-expansion.md 2025-05-07 10:55:14.120212000 +0100
+/docs/templates/workflow-template.md 2025-05-10 11:52:23.926098118 +0100
+/docs/templates/project-template.md 2025-05-10 11:52:44.526986857 +0100
+/docs/templates/agent-template.md 2025-05-10 11:52:04.576704988 +0100
+/docs/templates/archive-template.md 2025-05-10 15:26:56.870441214 +0100
+/docs/llm/MODEL-ROUTER-ISSUES.md 2025-05-12 08:39:43.752782443 +0100
+/docs/llm/DIRECT-OLLAMA-ACCESS.md 2025-05-12 08:39:43.752782443 +0100
+/docs/llm/ARCHITECTURE.md 2025-05-12 08:39:43.752782443 +0100
+/docs/api/a2a-protocol.md 2025-05-10 18:57:19.533199539 +0100
+/docs/project/technical-design.md 2025-05-10 12:10:15.192564390 +0100
+/docs/project/implementation/decisions.md 2025-05-12 10:17:43.324273986 +0100
+/docs/project/phase-transition-report.md 2025-05-10 18:50:15.295943221 +0100
+/docs/project/development-guidelines.md 2025-05-12 09:30:02.579499211 +0100
+/docs/project/api-standards.md 2025-05-12 09:33:24.231198638 +0100
+/docs/project/documentation-roadmap.md 2025-05-10 15:14:26.206994673 +0100
+/docs/project/project-integration-guide.md 2025-05-12 09:22:39.652474220 +0100
+/docs/project/master-plan.md 2025-05-12 08:39:43.752782443 +0100
+/docs/migration-plan.md 2025-05-10 15:01:58.767469595 +0100
+/docs/project-integration.md 2025-05-10 12:05:20.886635660 +0100
+/docs/CURRENT_GAPS_AND_ISSUES.md 2025-05-04 17:10:31.222498081 +0100
+/docs/examples/agent-example.md 2025-05-10 15:27:51.521036147 +0100
+/docs/examples/workflow-example.md 2025-05-10 15:27:51.521036147 +0100
+/docs/examples/project-example.md 2025-05-10 15:27:51.521036147 +0100
+/docs/INFRASTRUCTURE_STATUS.md 2025-05-04 16:58:43.294430605 +0100
+/docs/MODEL_ROUTER_DESIGN.md 2025-05-11 19:22:36.803986931 +0100
+/docs/LLM-ROADMAP.md 2025-05-11 23:04:39.709620104 +0100
+/docs/agent-orchestrator/niche_Idea_generator/architecture.md 2025-05-07 09:57:58.266846870 +0100
+/docs/agent-orchestrator/niche_Idea_generator/deployment.md 2025-05-07 09:57:58.266846870 +0100
+/docs/agent-orchestrator/niche_Idea_generator/wizard-specs.md 2025-05-07 09:57:58.266846870 +0100
+/docs/agent-orchestrator/niche_Idea_generator/taxonomy-rules.md 2025-05-07 09:57:58.266846870 +0100
+/docs/agent-orchestrator/niche_Idea_generator/cost-rules.md 2025-05-07 09:57:58.266846870 +0100
+/docs/agent-orchestrator/niche_Idea_generator/CHANGELOG.md 2025-05-07 09:57:58.266846870 +0100
+/docs/agent-orchestrator/niche_Idea_generator/README.md 2025-05-07 09:57:58.266846870 +0100
+/docs/agent-orchestrator/niche_Idea_generator/contributing.md 2025-05-07 09:57:58.266846870 +0100
+/docs/agent-orchestrator/niche_Idea_generator/ui-lanes.md 2025-05-07 09:57:58.266846870 +0100
+/docs/agent-orchestrator/niche_Idea_generator/runbook.md 2025-05-07 09:57:58.266846870 +0100
+/docs/agent-orchestrator/PROJECT_PLAN.md 2025-05-12 10:21:37.988672129 +0100
+/docs/agent-orchestrator/README.md 2025-05-12 10:21:48.628791153 +0100
+/docs/quick-reference.md 2025-05-10 12:03:50.066245074 +0100
+/docs/family-user-management/development-plan.md 2025-05-11 22:25:41.025754566 +0100
+/docs/family-user-management/overview.md 2025-05-11 22:32:46.882652133 +0100
+/docs/family-user-management/implementation-plan.md 2025-05-11 22:45:37.558747481 +0100
+/docs/family-user-management/README.md 2025-05-11 22:45:25.228233908 +0100
+/docs/family-user-management/tasks.md 2025-05-11 22:27:08.126910537 +0100
+/docs/integrations/ngrok-configuration.md 2025-05-11 08:29:16.515704919 +0100
+/docs/IMPLEMENTATION_STATUS_UPDATED.md 2025-05-12 08:39:43.722781121 +0100
+/docs/MODEL_REGISTRY_DESIGN.md 2025-05-11 19:20:47.922742549 +0100
+/docs/README.md 2025-05-12 08:39:43.722781121 +0100
+/docs/TROUBLESHOOTING.md 2025-05-06 13:47:04.633694485 +0100
+/docs/migration-dashboard.md 2025-05-10 19:13:34.414114662 +0100

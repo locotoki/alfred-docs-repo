@@ -1,0 +1,331 @@
+/home/locotoki/projects/alfred-agent-platform-v2/docs/IMPLEMENTATION_STATUS.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/monitoring/dashboards.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/atlas/operations.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/atlas/architecture.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/atlas/roadmap.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/atlas/api.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/atlas/usage-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/atlas/USAGE_GUIDE.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/atlas/README.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-social-intelligence-report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_dashboard_updated_6.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_overview.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration-report-deployment-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-progress-updated-3.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-niche-scout-workflow-report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_tracking_updated_2.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_dashboard_updated_3.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/validation_report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-system-architecture-report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-progress-updated-4.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase3-readiness-checklist.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-agent-core-report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_tracking_updated_7.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_tracking_updated_8.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_tracking_updated_4.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-progress-updated-2.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_dashboard_updated_5.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_summary.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-agent-implementation-guide-report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_tracking_updated_5.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-batch1-plan.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/reports/examples_metadata_update.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/reports/templates_metadata_update.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_dashboard_updated_7.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_tracking_updated_6.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_tracking.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-execution-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-progress.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_tracking_updated.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-financial-tax-agent-report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-completion-report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-progress-updated.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_dashboard_updated.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_dashboard.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-document-report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-legal-compliance-agent-report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_tracking_updated_3.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration-report-seed-to-blueprint.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_dashboard_updated_4.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase2-infrastructure-report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase1-completion/phase1-completion-report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/phase1-completion/phase2-readiness-checklist.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/tools/outputs/migration_dashboard_updated_2.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/LLM_INTEGRATION_ASSESSMENT.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/AGENT_DEPLOYMENT_GUIDE.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/architecture/system-design.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/architecture/agent-core.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/architecture/orchestration-architecture.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/architecture/system-architecture.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/PHASE2_COST.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/SHARED_LIBRARIES.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/UI_INTEGRATION_DESIGN.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/PHASE2_VISION.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/governance/standards/validation-report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/governance/standards/documentation-standards.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/governance/processes/documentation-cicd-integration.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/governance/processes/document-consolidation-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/governance/processes/documentation-migration-tutorial.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/governance/processes/documentation-process.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/governance/ai-tools/ai-integration-guidelines.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/governance/ai-tools/prompts/doc-creation-prompt.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/governance/ai-tools/README.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/operations/wsl-backups.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/operations/deployment.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/operations/deployment-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/PHASE2_TIMELINE.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/SERVICE_CONTAINERIZATION.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/development/ai-agent-platform-v2--technical-design-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/development/ai-agent-platform-v2--master-project-plan.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/development/agent-development.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/financial-tax-agent-migrated.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/legal-compliance-agent-migrated.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/guides/agent-implementation-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/guides/agent-implementation-guide-migrated.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/social-intelligence-agent.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/interfaces/alfred-slack-bot.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/financial-tax-agent.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/catalog/agent-catalog.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/financial-tax-deployment-checklist.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/financial_tax/financial-tax-agent-architecture.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/financial_tax/financial-tax-api.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/financial_tax/tax-compliance-verification.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/financial_tax/financial-analysis-implementation.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agents/README.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/alfred_assistant_implementation/executable-project-plan.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/alfred_assistant_implementation/technical-architecture.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/alfred_assistant_implementation/implementation-plan.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/alfred_assistant_implementation/week1-immediate-actions.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/INFRASTRUCTURE_STATUS_UPDATED.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/migration-tracking.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/POST_ROLLOUT_ACTIONS.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/phase6-mission-control/requirements.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/phase6-mission-control/implementation-plan.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/phase6-mission-control/youtube-workflows/claude-session-template.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/phase6-mission-control/youtube-workflows/troubleshooting-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/phase6-mission-control/youtube-workflows/implementation_status_final.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/phase6-mission-control/youtube-workflows/implementation-plan.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/phase6-mission-control/youtube-workflows/quick-start-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/phase6-mission-control/youtube-workflows/README.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/interfaces/chat-ui-implementation.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/services/crewai-service.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/services/crewai-n8n-integration-status.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/services/service-catalog.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/services/n8n-service.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/infrastructure-crew/roles/infrastructure-architect.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/infrastructure-crew/roles/infrastructure-architect-agent.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/infrastructure-crew/roles/implementation-specialist.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/infrastructure-crew/architecture/infrastructure-crew-high-level-design.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/infrastructure-crew/architecture/lean-crew-mvp.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/infrastructure-crew/architecture/infrastructure-crew-artifact-flow.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/infrastructure-crew/implementation/ai-agent-framework-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/infrastructure-crew/implementation/supabase-rls-qdrant-tenancy.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/infrastructure-crew/implementation/team-crew-setup.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/infrastructure-crew/overview.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/infrastructure-crew/README.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/system-diagram.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/documentation-system-summary.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/ARCHITECTURE_DIAGRAM.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/taxonomy-integration.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/PHASE2_HLD.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/github-reference-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/RAG_GATEWAY.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/TAXONOMY-INTEGRATION.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/workflows/niche-scout-implementation-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/workflows/content-explorer-workflow.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/workflows/niche-scout-workflow-migrated.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/workflows/IMPLEMENTATION_SUMMARY.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/workflows/youtube-api-configuration.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/workflows/interfaces/slack-conversation-workflow.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/workflows/crewai-workflows.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/workflows/n8n-workflows.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/workflows/topic-research-workflow.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/workflows/seed-to-blueprint-workflow-migrated.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/workflows/catalog/workflow-catalog.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/workflows/README.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/PHASE2_THREAT_MODEL.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/solo-biz-internal-rag-playbook.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service---add-on-artifacts.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service---data_flow_diagram.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-servcie--rag-client-retriever.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service---implementation-plan-and-test-instructi.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/external-facing-saas-rag-playbook.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service--client-packaging-and-codegen-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service---security_compliance_whitepaper.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service--open-api-3.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service---executive_one_pager.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/RAG Service – Architectural RFC 1eeb4fd21ff080b6a44ced387219a795.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service--bootstrap-and-re-ranker.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-and-ai-agent-solopreneur-playbook---structured-s.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service---day-two-operations-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service---architectural-rfc.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/RAG Servcie - Rag Client Retriever 1eeb4fd21ff08061ad73fcb3612601b9.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service---supplementary-toolkit.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag--tenant-models.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service---json-schemas-(v1).md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/RAG & AI‑Agent Solopreneur Playbook – Structured S 1eeb4fd21ff0800cb60efaafaf45d8c0.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/RAG - Tenant Models 1eeb4fd21ff0809f931dd9646b22f057.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/RAG Service – data_flow_diagram 1eeb4fd21ff08191a27ff8e7904ba16a.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/Solo‑Biz Internal RAG Playbook 1eeb4fd21ff0806087dffe0b3e783696.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service---system_context_diagram.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-service---future-roadmap.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/RAG Service – system_context_diagram 1eeb4fd21ff081c5ae24f88de69c3e27.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/RAG Service – Implementation Plan & Test Instructi 1eeb4fd21ff0801a8d4cc1ee4276457a.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/personal-family-rag-playbook.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/RAG Service – Future Roadmap 1eeb4fd21ff08058a6d1f340150dcaa6.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/rag-project---supplementary-design-docs.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/RAG Service - Client Packaging & Codegen Guide 1eeb4fd21ff080f6a56dd9de06cdf097.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/RAG_service/RAG Service - Open Api 3 1eeb4fd21ff0806fa4cae2b7302caca6.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/ai-agent-crew-for-scalable,-fully-automated-infras.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/Atlas_Deployment_Manual_v0.1.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/infra_architect_lean_crew_mvp.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/ai_agent_framework_guide_05072025.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/infrastructure-architect-agent.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/infrastructure-crew.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/infra-architect-role-and-definition.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/ai-aent-team-crew--autonomous-infrastructure.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/Infra Architect Role & Definition 1edb4fd21ff080ceb2e7cbbbe0ff762a.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/implementation-specialist-role-definition.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/AI-Agent Crew for Scalable, Fully-Automated Infras 1edb4fd21ff080459f6acf429f3299fe.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/Infrastructure Crew 1eeb4fd21ff0806e920ad56352bd8f69.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/Atlas_Deployment_Manual_v0.2.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Infra_Crew/atlas_mvp_scaffold_patch-set_001.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/assistant-ai-agent-alfred.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/Alfred-Home Comprehensive Deployment Guide for Loc 1eab4fd21ff0805abad4e927cc3b384e.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/alfred-home-minimal-whatsapp-ai-assistant-for-(v20.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/alfred-whatsapp-family-mvp---detailed-design-and-imp.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/Alfred WhatsApp Family MVP 1eab4fd21ff080c59493fe1cde490f5b.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/Alfred‑Home Single Source of Truth – Implementatio 1eab4fd21ff080d48cf5f2cfcb1170de.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/alfred-home-(whatsapp)-and-alfred-biz-(slack-whats.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/alfred-home-architectural-synthesis.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/alfred-whatsapp-family-mvp.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/path-from-alfred-home-to-adding-alfred-biz.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/alfred-home-and-alfred-biz---comprehensive-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/interfaces-initial-infra-assessment.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/alfred-home-whatsapp-mvp---detailed-design-and-imple.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/Alfred-Home (WhatsApp) and Alfred-Biz (Slack Whats 1eab4fd21ff0803cae5ffd6638a70d0b.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/rethinking-alfred-for-a-solopreneur.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/ai-agent-platform-v2-·-alfred-×-whatsapp-cloud-api.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/alfred-home-biz-planning-and-design.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/alfred-biz-slack-mvp.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/Interfaces initial infra assessment 1e9b4fd21ff08080a6ebccdf693562f3.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/alfred-home-single-source-of-truth---implementatio.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/alfred-home---implementation-specification.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/alfred-home-comprehensive-deployment-guide-for-loc.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/Alfred‑Home WhatsApp MVP – Detailed Design & Imple 1e9b4fd21ff080a188b9e2d0f4b47b67.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/alfred-biz-slack-mvp---detailed-design-and-implement.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/Alfred-Biz Slack MVP 1eab4fd21ff080609921f364d96570fa.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/Alfred‑home biz Planning & Design 1eab4fd21ff08074a707f54ac5c0363c.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/alfred__AI_Assistant/Assistant AI Agent Alfred 1eab4fd21ff0803eb7d4dcea596822c7.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/CrewAI_N8N.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/agents/agent-template.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/agents/core/conductor.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/agents/domain/niche-scout.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/agents/README.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/Social Intel Agent 1eab4fd21ff0802f84b5eeace69c091e.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/social-intel-agent-research‐and-insight-workflows.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/social-intel-agent-manual-pilot-playbook---phase-1.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/youtube-workflow-1-integration--technical-specif.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/Untitled 1eab4fd21ff080db8facf25931bd652e.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/social-intel-agent.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/social-intel-agent-“try-it-tomorrow”-exercises.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/social-intel-agent-agent-automation-playbook.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/untitled.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/Social Intel Agent “try-it-tomorrow” exercises 1eab4fd21ff08038870bd16b390da7d6.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/youtube-workflow-1-research-scenario-samples.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/social-intel-agent-role-for-youtube-content-creati.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/Youtube_API_Key.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/Social Intel Agent Role for YouTube Content Creati 1eab4fd21ff0806887a6e5319ba6660d.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/social-intel-agent-for-youtube-content-creation--.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/social-intel-agent-youtube-research-workflows-thro.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/Possible research sources & methods 1ebb4fd21ff08095b585e8ffd3821158.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/social-intel-agent-youtube-content-creation-shippi.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/Social Intel Agent YouTube research workflows thro 1eab4fd21ff0802b806cfbab033a42da.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/Social Intel Agent YouTube Content Creation Shippi 1eab4fd21ff0800aaadcc22e6500d7e3.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/manual-pilot-playbook-pilot-1.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/possible-research-sources-and-methods.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/Social Intel Agent Manual-Pilot Playbook – Phase 1 1eab4fd21ff080348ea9e45825cc4f54.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Social_Intel/youtube-workflow-1-niche-scout.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/CrewAI_N8N_Integration_Plan.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-technical-architecture-docum.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-api-documentation.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2---re-architecture-plan-(supab.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-operations-and-maintenance-gui.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-1---rearchitecture-plan-(supa.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai_agent_platform-v2.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-ci-cd-pipeline-documentation.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-complete-implementation-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/agent-core-langchain_vs_vertex_ai_agenttradeoffs.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-security-plan.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/AI Agent Platform v2 AI Agent Core Integration Pla 1e8b4fd21ff0806c9a6fca150e8259b3.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-ai-agent-core-integration-pla.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/AI Agent Platform v2 Complete Implementation Guide 1e8b4fd21ff080c1b742d3a910855ef1.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2-test-plan-and-test-cases.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2--technical-design-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/AI Agent Platform v2 1 – Rearchitecture Plan (Supa 1e8b4fd21ff080bdac37cdfb502154b2.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/AI Agent Platform v2- CI CD Pipeline Documentation 1e7b4fd21ff080ac82acd0ccd1ff72b6.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2--master-project-plan-v1-1-05.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/ai-agent-platform-v2--master-project-plan.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/AI Agent Platform v2 – Re-architecture Plan (Supab 1e8b4fd21ff0807cb7b3daf15a63bda6.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/AI_Agent_Platform_v2/AI Agent Platform v2- Test Plan & Test Cases 1e7b4fd21ff080aaacc4f2ceaa200e67.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Content_Factory/youtube-content-factory-2025-2027-grok3-research-0.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Content_Factory/content-factory-core-agent-team-structure.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Content_Factory/agent-team-structure-for-youtube-content-creation.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Content_Factory/content-factory-org-chart.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Content_Factory/youtube-content-factory-ai-agent-framework-for-aut.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Content_Factory/Automation & UI Framework Expansion 1eab4fd21ff0801898a2d5b4270b513e.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Content_Factory/Content Factory Core Agent Team Structure 1eab4fd21ff080f4aa42c45b0efabbd8.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Content_Factory/content-factory.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Content_Factory/end-to-end-youtube-channel-operation-workflow-phas.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Content_Factory/End-to-End YouTube Channel Operation Workflow Phas 1eab4fd21ff08055a1eaf051bc511af6.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/staging-area/Content_Factory/automation-and-ui-framework-expansion.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/templates/workflow-template.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/templates/project-template.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/templates/agent-template.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/templates/archive-template.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/llm/MODEL-ROUTER-ISSUES.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/llm/DIRECT-OLLAMA-ACCESS.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/llm/ARCHITECTURE.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/api/a2a-protocol.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/project/technical-design.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/project/implementation/decisions.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/project/phase-transition-report.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/project/development-guidelines.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/project/api-standards.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/project/documentation-roadmap.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/project/project-integration-guide.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/project/master-plan.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/migration-plan.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/project-integration.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/CURRENT_GAPS_AND_ISSUES.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/examples/agent-example.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/examples/workflow-example.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/examples/project-example.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/INFRASTRUCTURE_STATUS.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/MODEL_ROUTER_DESIGN.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/LLM-ROADMAP.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agent-orchestrator/niche_Idea_generator/architecture.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agent-orchestrator/niche_Idea_generator/deployment.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agent-orchestrator/niche_Idea_generator/wizard-specs.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agent-orchestrator/niche_Idea_generator/taxonomy-rules.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agent-orchestrator/niche_Idea_generator/cost-rules.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agent-orchestrator/niche_Idea_generator/CHANGELOG.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agent-orchestrator/niche_Idea_generator/README.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agent-orchestrator/niche_Idea_generator/contributing.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agent-orchestrator/niche_Idea_generator/ui-lanes.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agent-orchestrator/niche_Idea_generator/runbook.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agent-orchestrator/PROJECT_PLAN.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/agent-orchestrator/README.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/quick-reference.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/family-user-management/development-plan.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/family-user-management/overview.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/family-user-management/implementation-plan.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/family-user-management/README.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/family-user-management/tasks.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/integrations/ngrok-configuration.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/IMPLEMENTATION_STATUS_UPDATED.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/MODEL_REGISTRY_DESIGN.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/README.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/TROUBLESHOOTING.md
+/home/locotoki/projects/alfred-agent-platform-v2/docs/migration-dashboard.md
